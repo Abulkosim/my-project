@@ -1,8 +1,9 @@
 <template>
-  <div class="flex flex-col max-w-[calc(100%-30px)] mx-auto text-center py-8 sm:pt-16">
+  <div class="flex flex-col max-w-[calc(100%-30px)] mx-auto text-center py-8 sm:pt-16 md:max-w-[1080px] md:px-5 lg:px-0">
     <div>
       <h2 class="mb-3 text-[32px] font-semibold text-grayish sm:text-[40px]">Storm template pricing</h2>
-      <p class="text-gray text-[20px] mb-5 max-w-[calc(100%-10px)] mx-auto sm:max-w-[620px]">Lorem ipsum dolor sit amet,
+      <p class="text-gray text-[20px] mb-5 max-w-[calc(100%-10px)] mx-auto sm:max-w-[620px] md:mb-10">Lorem ipsum dolor
+        sit amet,
         consectetur
         adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore aliqua.</p>
     </div>

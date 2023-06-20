@@ -1,5 +1,6 @@
 <template>
-  <div class="py-5 flex flex-col md:flex-row md:flex-wrap">
+  <div
+    class="py-5 flex flex-col md:flex-row md:flex-wrap md:max-w-[1080px] md:px-5 lg:px-0 mx-auto border-b-[0.1px] border-line">
     <div class="flex-col text-center max-w-xs mx-auto mb-8 sm:mb-12">
       <div class="w-20 h-20 flex justify-center items-center rounded-full bg-icon mx-auto mb-4">
         <img src="../../images/feature-tile-icon-01.svg" alt="1st Icon">

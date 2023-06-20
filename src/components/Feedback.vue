@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col max-w-[calc(100%-30px)] mx-auto text-center py-8">
+  <div class="flex flex-col max-w-[calc(100%-30px)] mx-auto text-center py-8 md:max-w-[1080px] md:px-5 lg:px-0">
     <div class="flex flex-col pb-16 border-b-[0.1px] border-line">
       <img src="../../images/testimonial-image-03.png" alt="testimonial-image-03"
         class="w-14 h-14 rounded-full mx-auto mt-6">

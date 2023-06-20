@@ -1,6 +1,6 @@
 <template>
   <header class="py-7">
-    <div class="flex justify-between max-w-[calc(100%-40px)] mx-auto items-center">
+    <div class="flex justify-between max-w-[calc(100%-40px)] mx-auto items-center md:max-w-[1080px] md:px-5 lg:px-0">
       <img src="../../images/logo.svg" alt="Logo" class="cursor-pointer">
       <div class="hidden items-center text-grayish font-medium sm:flex">
         <a href="#" class="underline hover:no-underline">SECONDARY PAGE</a>
