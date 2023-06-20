@@ -11,7 +11,7 @@ import Cards from './Cards.vue'
     <GetStarted></GetStarted>
     <UserFriendly></UserFriendly>
     <AdvancedFeatures></AdvancedFeatures>
-    <Feedback></Feedback>
     <Cards></Cards>
+    <Feedback></Feedback>
   </main>
 </template>

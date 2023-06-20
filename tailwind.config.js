@@ -11,7 +11,7 @@ export default {
       gray: "#808AB8",
       cardBlue: "#1a1f34",
       line: "#252B45",
-      white: 'white'
+      white: "white",
     },
   },
   plugins: [],

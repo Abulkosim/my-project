@@ -4,7 +4,7 @@
       <img src="../../images/testimonial-image-03.png" alt="testimonial-image-03"
         class="w-14 h-14 rounded-full mx-auto mt-6">
       <img src="../../images/tick.svg" alt="" class="w-6 relative mx-auto bottom-16 right-4">
-      <p class="text-gray text-[20px] mb-5 max-w-[calc(100%-10px)]">
+      <p class="text-gray text-[20px] mb-5 max-w-[calc(100%-10px)] sm:max-w-[620px] sm:mx-auto">
         Excepteur sint occaecat cupidatat non proident. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
         do
         eiusmod tempor incididunt ut labore et dolore magna aliqua.
