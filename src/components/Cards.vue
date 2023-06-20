@@ -13,8 +13,8 @@
         class=" block w-[320px] my-4 appearance-none rounded-full h-1 bg-cardBlue outline-none cursor-pointer mx-auto">
       <label for="input" class="block mb-8 relative right-[110px] text-gray font-medium">1,250</label>
     </div>
-    <div class="flex flex-col md:flex-row md:flex-wrap">
-      <div class="w-[344px] mx-auto bg-cardBlue p-6 text-start mb-6">
+    <div class="flex flex-col items-center md:flex-row md:flex-wrap md:justify-center">
+      <div class="w-[344px] bg-cardBlue p-6 text-start mb-6 mx-2">
         <h2 class="text-5xl font-bold mb-3"><span class="text-gray">$</span>13</h2>
         <p class="text-gray">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
         </p>
@@ -46,7 +46,7 @@
         <a href="#" class="block text-center w-full bg-blue hover:bg-hoverBlue py-3 rounded-sm mt-8 mb-2">START FREE
           TRIAL</a>
       </div>
-      <div class="w-[344px] mx-auto bg-cardBlue p-6 text-start mb-6">
+      <div class="w-[344px] bg-cardBlue p-6 text-start mb-6 mx-2">
         <h2 class="text-5xl font-bold mb-3"><span class="text-gray">$</span>17</h2>
         <p class="text-gray">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
         </p>
@@ -78,7 +78,7 @@
         <a href="#" class="block text-center w-full bg-blue hover:bg-hoverBlue py-3 rounded-sm mt-8 mb-2">START FREE
           TRIAL</a>
       </div>
-      <div class="w-[344px] mx-auto bg-cardBlue p-6 text-start mb-6">
+      <div class="w-[344px] bg-cardBlue p-6 text-start mb-6 mx-2">
         <h2 class="text-5xl font-bold mb-3"><span class="text-gray">$</span>21</h2>
         <p class="text-gray">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
         </p>
