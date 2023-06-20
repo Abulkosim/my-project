@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col max-w-[calc(100%-30px)] mx-auto text-center py-8 sm:pb-24 border-line border-b-[0.2px] sm:max-w-[calc(100%-40px)] md:pb-10 md:max-w-[1080px] md:px-5 lg:px-0">
+    class="flex flex-col max-w-[calc(100%-30px)] mx-auto text-center py-8 sm:pb-24 border-line border-b-[0.2px] sm:max-w-[calc(100%-40px)] md:pb-10 md:max-w-[1080px] md:px-5">
     <div>
       <h2 class="mb-4 text-[32px] font-semibold text-grayish sm:text-[40px] md:mt-10">The complex made simple</h2>
       <p class="text-gray text-[20px] mb-5 max-w-[calc(100%-10px)] mx-auto md:max-w-[620px]">Lorem ipsum dolor sit amet,

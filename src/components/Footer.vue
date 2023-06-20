@@ -1,5 +1,5 @@
 <template>
-  <footer class="pt-8 pb-12 max-w-[calc(100%-30px)] mx-auto sm:pb-16 md:max-w-[1080px] md:px-5 lg:px-0">
+  <footer class="pt-8 pb-12 max-w-[calc(100%-30px)] mx-auto sm:pb-16 md:max-w-[1080px] md:px-5">
     <div class="flex flex-col items-center sm:justify-between sm:flex-row">
       <img src="../../images/logo.svg" alt="Logo" class="cursor-pointer w-8 h-8 mb-6 sm:mb-0">
       <ul class="flex text-lg">

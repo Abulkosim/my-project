@@ -12,6 +12,7 @@ export default {
       cardBlue: "#1a1f34",
       line: "#252B45",
       white: "white",
+      darkMenu: "#0c0e1b",
     },
   },
   plugins: [],

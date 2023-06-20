@@ -7,9 +7,15 @@
         consectetur
         adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore aliqua.</p>
     </div>
+    <div>
+      <p class="text-gray text-lg mb-4 mx-auto">How many users do you have?</p>
+      <input id="input" type="range" min="1" max="8" value="2"
+        class=" block w-[320px] my-4 appearance-none rounded-full h-1 bg-cardBlue outline-none cursor-pointer mx-auto">
+      <label for="input" class="block mb-8 relative right-[110px] text-gray font-medium">1,250</label>
+    </div>
     <div class="flex flex-col md:flex-row md:flex-wrap">
       <div class="w-[344px] mx-auto bg-cardBlue p-6 text-start mb-6">
-        <h2 class="text-5xl font-bold mb-3">$13</h2>
+        <h2 class="text-5xl font-bold mb-3"><span class="text-gray">$</span>13</h2>
         <p class="text-gray">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
         </p>
         <div class="w-[88px] h-[0.3px] bg-line my-6"></div>
@@ -41,7 +47,7 @@
           TRIAL</a>
       </div>
       <div class="w-[344px] mx-auto bg-cardBlue p-6 text-start mb-6">
-        <h2 class="text-5xl font-bold mb-3">$17</h2>
+        <h2 class="text-5xl font-bold mb-3"><span class="text-gray">$</span>17</h2>
         <p class="text-gray">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
         </p>
         <div class="w-[88px] h-[0.3px] bg-line my-6"></div>
@@ -73,7 +79,7 @@
           TRIAL</a>
       </div>
       <div class="w-[344px] mx-auto bg-cardBlue p-6 text-start mb-6">
-        <h2 class="text-5xl font-bold mb-3">$21</h2>
+        <h2 class="text-5xl font-bold mb-3"><span class="text-gray">$</span>21</h2>
         <p class="text-gray">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
         </p>
         <div class="w-[88px] h-[0.3px] bg-line my-6"></div>
